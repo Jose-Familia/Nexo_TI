@@ -1,0 +1,3 @@
+# Sin dependencias de terceros.
+# Requiere Python 3.11+ con tkinter, sqlite3 y la biblioteca estandar.
+# En Windows, incluye Tcl/Tk al instalar Python.
